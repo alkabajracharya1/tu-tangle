@@ -1,0 +1,107 @@
+.container {
+   width: 1100px;
+   margin: 0 auto;
+   /* background: gray; */
+}
+
+.header-wrapper {
+   width: 100%;
+   /* background: yellow; */
+}
+
+.navbar-wrapper {
+   /* background: green; */
+}
+
+.content-wrapper {
+   /* background: yellow; */
+}
+
+.footer-wrapper {
+   /* background: olive; */
+}
+
+.logo-searchbar-wrapper {
+   width: 800px;
+   /* background: purple; */
+   /* border: 1px dashed black; */
+   float: left;
+}
+
+.logo-wrapper {
+   width: 300px;
+   /* background: pink; */
+   border: 1px dashed black;
+   float: left;
+}
+
+.searchbar-wrapper {
+   width: 500px;
+   /* background: green; */
+   border: 1px dashed black;
+
+   float: right;
+}
+
+.user-info-wrapper {
+   width: 300px;
+   /* background: lightcoral; */
+   float: right;
+
+   border: 1px dashed black;
+}
+
+.navbar-list-wrapper {
+   /* background: lightgreen; */
+   width: 700px;
+   border: 1px dashed black;
+   float: left;
+}
+
+.user-info-list-wrapper {
+   /* background: lightslategray; */
+   width: 400px;
+   border: 1px dashed black;
+   float: right;
+}
+
+.left-sidebar-wrapper {
+   /* background: honeydew; */
+   width: 800px;
+   float: left;
+}
+
+.left-child-sidebar {
+   /* background: navy; */
+   width: 250px;
+   border: 1px dashed black;
+   float: left;
+}
+
+.middle-content-wrapper {
+   /* background: khaki; */
+   width: 550px;
+   border: 1px dashed black;
+   float: right;
+}
+
+.right-sidebar-wrapper {
+   /* background: yellowgreen; */
+   width: 300px;
+   border: 1px dashed black;
+   float: right;
+}
+
+.left-footer-wrapper {
+   /* background: fuchsia; */
+   width: 770px;
+   border: 1px dashed black;
+   float: left;
+}
+
+.right-footer-wrapper {
+   /* background: slateblue; */
+   width: 330px;
+   border: 1px dashed black;
+   float: left;
+}
